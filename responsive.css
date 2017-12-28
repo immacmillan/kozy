@@ -1,0 +1,27 @@
+
+.header {
+  background: blue;
+}
+
+.nav {
+  background: green;
+}
+
+/* .nav_list{
+  display: flex;
+  justify-content: center;
+  border: 1px solid #fff;
+} */
+
+.article1 {
+  background: yellow;
+
+}
+
+.article2 {
+  background: pink;
+}
+
+.footer {
+  background: orange;
+}
