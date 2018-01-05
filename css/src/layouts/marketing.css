@@ -143,7 +143,7 @@ a.pure-button-primary {
     top: 0;
     left: 0;
     position: fixed !important;
-}
+}.
 
 .splash {
     /* absolute center .splash within .splash-container */
