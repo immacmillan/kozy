@@ -153,7 +153,6 @@ a.pure-button-primary {
     left: 0;
     position: fixed !important;
 }
-
 .splash {
     /* absolute center .splash within .splash-container */
     width: 80%;
@@ -163,6 +162,11 @@ a.pure-button-primary {
     top: -180px; left: 0; bottom: 0; right: 0;
     text-align: center;
     text-transform: capitalize;
+}
+#frankly {
+    background-image: url("../images/silhouette hands2.png");
+    background-size: cover;
+    background-position: center;
 }
 /* This is the main heading that appears on the blue section */
 .splash-head {
