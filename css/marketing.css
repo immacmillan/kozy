@@ -153,11 +153,8 @@ a.pure-button-primary {
     left: 0;
     position: fixed !important;
 }
-<<<<<<< HEAD
 
 
-=======
->>>>>>> 78eab6b425d52e6b4865a853467ec6bf91b00ae0
 .splash {
     /* absolute center .splash within .splash-container */
     width: 80%;
@@ -168,7 +165,6 @@ a.pure-button-primary {
     text-align: center;
     text-transform: capitalize;
 }
-<<<<<<< HEAD
 
 #hands {
   background-image: url("../images/silhouette hands2.png");
@@ -176,13 +172,6 @@ a.pure-button-primary {
   background-position: center;
 }
 
-=======
-#frankly {
-    background-image: url("../images/silhouette hands2.png");
-    background-size: cover;
-    background-position: center;
-}
->>>>>>> 78eab6b425d52e6b4865a853467ec6bf91b00ae0
 /* This is the main heading that appears on the blue section */
 .splash-head {
     font-size: 20px;
